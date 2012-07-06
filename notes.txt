@@ -11,3 +11,54 @@ Come and listen to three veterans of Gnome - the old fogeys - talk
 about our early history, our early successes and mistakes, and
 hopefully look at pictures, screenshots, and other mementos of old
 software which you now use in its ever-evolving form.
+
+
+Ideas:
+
+* Can we get GIMP 0.54 / 0.6x running?
+
+* Can we get really old Gnomes running?
+
+* Screenshots of Gnome's old webpages
+
+** Get them from archive.org
+
+* Screenshots of old Gnome versions
+
+** See Owen's presentation
+
+** Dig up Nat's "Swinging the pendulum"
+
+* Photos of old Gnome swag:
+
+** Put out a call for mementos from GUADEC Paris, LinuxWorld, etc.
+
+* Eazel's "sorry, we are fucked" sign - eavel.com
+
+** "Yes, The Andy Hertzfeld himself was involved in Gnome"
+
+* Photos of Red Hat Labs' multiprocessor Xeon twisting video in real
+  time?  "this was considered cutting-edge..."
+
+* MC crashed as you opened a new folder.  But it would restart
+  automatically showing all the previous windows and locations, so it
+  "just flickered and showed you the right window".
+
+* Bob Young would kill Gnome at Red Hat unless it was shown to work by
+  $deadline.  Mad hacking night.
+
+* GUADECs - need pictures, etc.
+
+2000 - Paris
+2001 - Copenhagen
+2002 - Seville
+2003 - Dublin
+2004 - Kristiansand
+2005 - Stuttgart
+2006 - Vilanova i la Geltrú
+2007 - Birmingham
+2008 - Istanbul
+2009 - Gran Canaria
+2010 - The Hague
+2011 - Berlin
+2012 - A Coruña
