@@ -1,0 +1,13 @@
+History of Gnome - FIXME: this title sucks.
+
+Abstract:
+
+The first version of Gnome was first announced around August 1997.
+Even before that, it already had a prehistory:  the GIMP was the first
+free-as-in-freedom "end-user" application; it had been using its
+home-grown GTK+ toolkit for a couple of years, and an enthusiastic
+group of people had formed around the toolkit and the GIMP itself.
+Come and listen to three veterans of Gnome - the old fogeys - talk
+about our early history, our early successes and mistakes, and
+hopefully look at pictures, screenshots, and other mementos of old
+software which you now use in its ever-evolving form.
