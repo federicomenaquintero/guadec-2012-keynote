@@ -63,6 +63,7 @@ Ideas:
 
 2000 - Paris
 2001 - Copenhagen
+** Photos here!: http://www.sslug.dk/billeder/?stext=guadec
 2002 - Seville
 2003 - Dublin
 2004 - Kristiansand
@@ -78,3 +79,6 @@ Ideas:
 
 * Gnome Foundation - we can talk a bit about the history here. Starting with the two years (wasnt it two) of the 
   Gnome Steering Committee and moving into the foundation
+
+* Tributes to Ettore Perazzoli, Chema Celorio, & Mark Finlay (Photos a must)
+
