@@ -16,6 +16,7 @@ software which you now use in its ever-evolving form.
 Ideas:
 
 * Can we get GIMP 0.54 / 0.6x running?
+** I also remember an old photo of a gimp meetup (owen had to have been in it) - surely we can find that
 
 * Can we get really old Gnomes running?
 
@@ -29,13 +30,19 @@ Ideas:
 
 ** Dig up Nat's "Swinging the pendulum"
 
+** Maybe mention Havoc's emails when he started the idea of simplifying Gnome?
+
 * Photos of old Gnome swag:
+** OMG! I have a stuffed GEGL!! (dcm)
 
 ** Put out a call for mementos from GUADEC Paris, LinuxWorld, etc.
 
 * Eazel's "sorry, we are fucked" sign - eavel.com
+** I suppose we shouldnt mention Elliot going to Eazel to teach them how to join the committe and writing half of
+   Nautilus? I dont know... its not like they exist.
 
 ** "Yes, The Andy Hertzfeld himself was involved in Gnome"
+*** I can talk about watching Andy doing a review of OS X before it was released - he didnt like it all
 
 * Photos of Red Hat Labs' multiprocessor Xeon twisting video in real
   time?  "this was considered cutting-edge..."
@@ -46,11 +53,17 @@ Ideas:
 
 * Bob Young would kill Gnome at Red Hat unless it was shown to work by
   $deadline.  Mad hacking night.
+** This is a must - we should probably talk a bunch about how important this was - esp. with kde finally 
+   moving to a better license
+
+* Gnome 1.0 launch at Linux World Expo - the press conference that RMS nearly ruined with his "GNU/Linux - not Linux"
+  tirade. We should look for those images we made with Gnome running on a bunch of different machine types
 
 * GUADECs - need pictures, etc.
 
 2000 - Paris
 2001 - Copenhagen
+** Photos here!: http://www.sslug.dk/billeder/?stext=guadec
 2002 - Seville
 2003 - Dublin
 2004 - Kristiansand
@@ -62,3 +75,10 @@ Ideas:
 2010 - The Hague
 2011 - Berlin
 2012 - A Coruña
+
+
+* Gnome Foundation - we can talk a bit about the history here. Starting with the two years (wasnt it two) of the 
+  Gnome Steering Committee and moving into the foundation
+
+* Tributes to Ettore Perazzoli, Chema Celorio, & Mark Finlay (Photos a must)
+
