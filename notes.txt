@@ -1,5 +1,7 @@
 History of Gnome - FIXME: this title sucks.
 
+(This text is more legible in outline-mode in Emacs.)
+
 Abstract:
 
 The first version of Gnome was first announced around August 1997.
@@ -82,3 +84,9 @@ Ideas:
 
 * Tributes to Ettore Perazzoli, Chema Celorio, & Mark Finlay (Photos a must)
 
+* Photos to find:
+
+Maciej drunk, asleep in the Paris metro, covered with Gnome stickers
+Ole Aamot's gallery of early GUADECs
+LinuxConf in Raleigh
+Atlanta Linux Showcase
