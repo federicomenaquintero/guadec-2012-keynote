@@ -96,3 +96,8 @@ Atlanta Linux Showcase
 http://www.gamers.org/~quinet/images/guadec/
 http://www.jamesh.id.au/talks/ - look for photos there, too
 http://www.jirka.org/ - grep for "GUADEC"
+
+* Old screenshots:
+
+http://www.open-mag.com/features/Vol_35/SuSE_email/gifs/SuSE-3a.gif -
+Evolution 1, from Dave Richards.
