@@ -96,3 +96,13 @@ Atlanta Linux Showcase
 http://www.gamers.org/~quinet/images/guadec/
 http://www.jamesh.id.au/talks/ - look for photos there, too
 http://www.jirka.org/ - grep for "GUADEC"
+
+* Virtual machines:
+
+gpoo: federico: btw, I upload the vm for 1.0.53 and 1.2.  However, you
+have to edit lilo and boot with 'linux noapic'
+gpoo: s/upload/uploaded
+gpoo: running 2.2 in a vm is a pain
+gpoo: I mean linux 2.2
+gpoo: and you have to set -cpu pentium2 in kvm.  Otherwise, it will
+crash.
