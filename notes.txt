@@ -97,6 +97,10 @@ http://www.gamers.org/~quinet/images/guadec/
 http://www.jamesh.id.au/talks/ - look for photos there, too
 http://www.jirka.org/ - grep for "GUADEC"
 
+http://www.jwz.org/photos/1998-05-30-expo/
+http://www.jwz.org/photos/1998-04-07-summit/
+
+http://www.gnome.org/~ole/GUADEC/
 
 * Old screenshots:
 
