@@ -1,0 +1,17 @@
+Photos by Adrian Likins
+
+raster_pic.jpg: Pic of Casten Haitzler (Rasterman) from the Raleigh
+News&Observer on a story about Red Hat and Gnome
+
+rhad_expo.jpg: Group shot of Gnome mini conference from
+Linux Expo in Durham, NC in 1998.
+
+gimp_linux_expo_1998.jpg: Group shot of some of the
+Gimp developers from Linux Expo 1998.
+First row left to right, Adam D. Moss, Seth Burgess. Back row, left to
+right: Owen Taylor, Adrian Likins, Xach Beane, Matthew Wilson, Larry
+Ewing.
+
+gimp_euro.jpg: Gathering of some Gimp developers somewhere
+in Germany, iirc. Jens Lautenbacher, Sven Riedel, Franciso Bustamente,
+Sven Neuman.
