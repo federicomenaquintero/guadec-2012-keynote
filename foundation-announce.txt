@@ -1,0 +1,28 @@
+OBJECTIVES
+    Advance the free software/open source agenda as a central force in computing.
+    Introduce The GNOME Foundation as the non-profit organization for
+    advancing GNOME as the world?s leading free and easy-to-use desktop
+    environment for the user.
+
+    Demonstrate momentum/credibility for this foundation with announcements
+    of support by leading vendors.
+
+    Establish key executives from The GNOME Foundation and the vendor
+    organizations as resources to reporters/analysts.
+
+STRATEGY
+    To reinforce GNOME?s position as a leader in the open source movement,
+    positioning GNOME as a unifying industry force across multiple vendors.
+
+KEY MESSAGES
+    The GNOME Foundation has been formed to formalize a group of individuals,
+    from varying organizations and companies, who will be responsible for
+    advancing GNOME.
+
+    The GNOME desktop is the world?s leading free and easy-to-use desktop
+    enviroment for the user; GNOME has been designed to run on all modern
+    strains of Unix-like operating systems.
+
+    The support of leading vendors, including Sun Microsystems, Eazel,
+    Collab.Net, Helix Code, Red Hat, [others to come] demonstrates that the
+    industry is coalescing behind GNOME as the desktop environment of the future.
