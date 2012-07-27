@@ -145,5 +145,44 @@ with screenshots.
 
 * Timeline stuff:
 
-https://mail.gnome.org/archives/gtk-devel-list/1998-December/msg00121.html
+** https://mail.gnome.org/archives/gtk-list/1997-November/msg00229.html -
+GTK+ gets reference counting, for language bindings (Guile, in
+particular)
+
+"I'm still tinkering with the reference counting of Gtk.  Below is a
+text that describes how I think it should work.  Everything except the
+GtkObjects stuff has been implemented and is available as a patch from
+ftp.gimp.org as gtk-mvo-971013-0.patch.gz.  I hope to have something
+for the GtkObjects soon.
+
+The changes are not backward compatible.  It is possible to install
+some support until all major Gtk apps have been converted, I think."
+(Marius Vollmer)
+
+Fri Jan 30 23:55:03 1998  Tim Janik  <timj gimp org>
+
+	* Incorporation of Marius Vollmer's reference counting revolution,
+	  plus various fixups and additions from myself.
+
+** Miguel is impressed with Electric Eyes:
+https://mail.gnome.org/archives/gnome-list/1998-January/msg00492.html
+
+** Raster says why X doesn't support antialiased fonts:
+
+https://mail.gnome.org/archives/gnome-list/1998-January/msg00282.html
+X font primitives cannot be anti-aliased for several reasons. 1. no
+alpha support in X.
+
+** Toshok starts implementing antialiased fonts:
+   https://mail.gnome.org/archives/gnome-list/1998-January/msg00296.html 
+
+spurred by raster's comments about FnLib and anti-aliased fonts, I've
+hacked a font renderer abstraction into gdk.
+
+** https://mail.gnome.org/archives/gtk-devel-list/1998-December/msg00121.html
 - Add support for scrollwheel in GTK+
+
+Re: Could we have mouse-wheel support before the feature freeze ?
+
+"I haven't fooled around with the scroll-wheel in windows,
+and I haven't used one myself" (Owen Taylor)
