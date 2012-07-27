@@ -15,6 +15,31 @@ hopefully look at pictures, screenshots, and other mementos of old
 software which you now use in its ever-evolving form.
 
 
+Slides:
+
+1. "In the Beginning" Miguel's announcement (quote) [Federico]
+
+2. KDE - Miguel wrote to Erik Troan (& copied in RMS) to try to get
+KDE shipped in Red Hat. Erik and RMS wrote back saying that the
+dependency on QT was incompatible with the GPL. Miguel wrote to
+TrollTech suggesting alternative license options but never heard back.
+
+3. Enter Federico & GIMP - stress license issues here as well.
+
+4. Marc Ewing decides to form the "Advanced Development Labs" in 1997
+to start to work on Red Baron browser & started thinking about GNOME
+as well.
+
+5. January 1998 Netscape announces the opening up of the sourcecode to
+the Netscape browser. Marc then decides to turn the labs focus to
+GNOME and starts recruiting people to work on it.
+
+6. Early 1998 Marc hires Carsten Haitzler (aka Rasterman, aka Raster)
+who brings along his Enlightenment window manager.
+
+
+
+
 Ideas:
 
 * Can we get GIMP 0.54 / 0.6x running?
@@ -58,10 +83,10 @@ Ideas:
 ** This is a must - we should probably talk a bunch about how important this was - esp. with kde finally 
    moving to a better license
 
-* Gnome 1.0 launch at Linux World Expo - the press conference that RMS nearly ruined with his "GNU/Linux - not Linux"
+* Gnome 1.0 launch at Linux World Expo 1999 - the press conference that RMS nearly ruined with his "GNU/Linux - not Linux"
   tirade. We should look for those images we made with Gnome running on a bunch of different machine types
 
-** Gnome Foundation also announced: 
+** Gnome Foundation announced at Linux World Expo 2000: 
 *** Initial supporters included: IBM, Compaq, Sun, Red Hat, Helix, Eazel, Collab.net
 *** Sun had just released "Star Office" and announced that Gnome would
 be their default desktop in the near future.
