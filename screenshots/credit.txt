@@ -1,0 +1,5 @@
+http://www.free-it.org/archiv/LT_History/2000/talks/gnome.html
+
+cal.png: http://static.usenix.org/event/sec03/tech/full_papers/broadwell/broadwell_html/node18.html
+
+pfr-gnome.png; http://www.lugs.ch/linux/about/screenshots/screenshots.phtml
