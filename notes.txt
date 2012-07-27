@@ -61,6 +61,24 @@ Ideas:
 * Gnome 1.0 launch at Linux World Expo - the press conference that RMS nearly ruined with his "GNU/Linux - not Linux"
   tirade. We should look for those images we made with Gnome running on a bunch of different machine types
 
+** Gnome Foundation also announced: 
+*** Initial supporters included: IBM, Compaq, Sun, Red Hat, Helix, Eazel, Collab.net
+*** Sun had just released "Star Office" and announced that Gnome would
+be their default desktop in the near future.
+*** That same week: "On Friday, Hewlett-Packard said that it planned to make Linux its third ''strategic'' operating system in addition to Windows and HP-UX, its own version of the Unix operating system."
+
+
+
+** The New York Times said of the announcement of Gnome 1.0 and the
+   Foundation:
+
+   "The announcements to be made on Tuesday underscore both the
+   progress that Linux has made toward becoming a viable alternative
+   to Windows and the challenges that remain in persuading business
+   and consumer computer users to adopt the free operating system."
+
+
+
 * GUADECs - need pictures, etc.
 
 2000 - Paris
