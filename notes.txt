@@ -120,6 +120,8 @@ http://www.jwz.org/photos/1998-04-07-summit/
 
 http://www.gnome.org/~ole/GUADEC/
 
+http://blogs.gnome.org/uraeus/2012/07/19/guadec-2001-down-memory-lane/
+
 * Old screenshots:
 
 http://www.open-mag.com/features/Vol_35/SuSE_email/gifs/SuSE-3a.gif -
@@ -135,3 +137,13 @@ gpoo: running 2.2 in a vm is a pain
 gpoo: I mean linux 2.2
 gpoo: and you have to set -cpu pentium2 in kvm.  Otherwise, it will
 crash.
+
+* Old web pages
+
+http://www.levien.com/gimp/packbox.html - How to pack boxes in GTK+,
+with screenshots.
+
+* Timeline stuff:
+
+https://mail.gnome.org/archives/gtk-devel-list/1998-December/msg00121.html
+- Add support for scrollwheel in GTK+
